@@ -1,0 +1,1 @@
+SELECT * FROM gorod1 WHERE region_id="1" ORDER BY naselenie
